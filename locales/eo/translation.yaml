@@ -1,0 +1,51 @@
+---
+page_title: Esperanto teksto-al-parola sistemo
+switch_language_btn: 🇬🇧 Switch site to English
+generate_audio_btn: Generi paroladon!
+example_text_btn: Enigi teksta ekzemplo!
+textbox_placeholder: Enmetu vian tekston ĉi tie!
+infotext:
+    server_down: pardonu, ke tio ne funkciis; la servilo eble ne funkcios nun
+    server_text_short: ĉi tiu teksto estas tro mallonga
+    server_text_long: ĉi tiu teksto estas tro longa
+example_audio:
+    title: Ekzempla sono
+    transcript: >
+        "Ne kredu al parolo sen propra kontrolo."
+explain_text:
+    title: Pliaj informoj
+    part1: >
+        Jen frua versio de neŭrala <a href=https://eo.wikipedia.org/wiki/Parolsintezo>parolsinteza sistemo</a> por Esperanto.
+        Ĉi tiu retejo nuntempe plejparte ekzistas por montri mian nunan progresan staton.
+        Ĉi tio ankoraŭ estas frua provo, la voĉa kvalito verŝajne pliboniĝos en la estonteco.
+        Mi ankaŭ esperas aldoni pli da voĉoj kaj ankaŭ virinajn voĉojn (ĉi tio povus fariĝi
+        ebla kun la sekva eldono de Common Voice; nuntempe mi ne havas sufiĉe da parolregistraĵoj
+        de inoj; se vi identigas vin kiel inan aŭ ne duuman kaj volas donaci vian voĉon al ĉi tiu
+        projekto, bonvolu retpoŝti min ĉe speech_generation[ĉe]protonmail.com).
+    part2: >
+        La tuta teksto enmetita en la retejo estas nuntempe konservita por plibonigo, do bonvolu ne enmeti privatajn informojn en ĉi tiun retejon.
+    part3: >
+        Bonvolu esti konsiderema pri la parolo, kiun vi generas. Mi rekomendas ne generi pli ol ~ 50 frazojn tage.
+        (Se vi ankoraŭ bezonas fari tion, bonvolu sendi al mi retpoŝton unue)
+    part4: >
+        Se vi povas finance subteni ĉi tiun projekton aŭ havas proksimajn ligojn al organizo,
+        kiu povus sponsori ĉi tiun projekton por certigi ĝian longtempan ekziston bonvolu sendi al
+        mi retpoŝton ĉe speech_generation[ĉe]protonmail.com
+    part5: >
+        Mi ankaŭ laboras pri parol-al-teksta sistemo por Esperanto, kies demonstraĵon vi povas vidi
+        <a href="https://www.youtube.com/watch?v=IEeahcdNZ2M">ĉi tie</a>
+    part6: >
+        Por ricevi informojn pri progreso en ĉi tiu sistemo, vi povas sekvi min ĉe
+        <a href="https://twitter.com/54696d21">Twitter</a>
+        aŭ lasi al mi vian retpoŝtan adreson
+        <a href="https://docs.google.com/forms/d/1BtlP8ne0bTiOW-ueYMh6Ne3-WVDTdFGUYE1mijJ9XcA">ĉi tie</a>
+    part7: >
+        Vi povas kontakti min sendante retpoŝton ĉe speech_generation[ĉe]protonmail.com
+    part8: >
+        Danke al <a href="https://commonvoice.mozilla.org/eo">la Projekto Komuna Voĉo de Mozilla</a>,
+        ĝiaj kontribuantoj kaj la parolanto de la originalaj registraĵoj pro provizi la sonon.
+        Ankaŭ dankon al <a href="https://twitter.com/stergro">Stefan</a> pro interesigi min
+        konstrui esperantajn parolajn sistemojn kaj subteni min en senfinaj babilaj diskutoj.
+        Dankon ankaŭ al <a href="https://twitter.com/sav22999">Sav</a>, kiu kreis la programon Common Voice por Android,
+        kaj al ĉiuj aliaj, kiuj helpis konstrui la programon, kaj al ĉiuj, kiuj respondis,
+        ofertis donaci sian voĉon ĝis nun post mia komenca reddita afiŝo pri Esperanta parolsintezo en marto.

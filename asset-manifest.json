@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/esperantoTTS/static/css/main.5621d98a.chunk.css",
+    "main.js": "/esperantoTTS/static/js/main.dd94951c.chunk.js",
+    "main.js.map": "/esperantoTTS/static/js/main.dd94951c.chunk.js.map",
+    "runtime-main.js": "/esperantoTTS/static/js/runtime-main.9397dadd.js",
+    "runtime-main.js.map": "/esperantoTTS/static/js/runtime-main.9397dadd.js.map",
+    "static/js/2.1df13d47.chunk.js": "/esperantoTTS/static/js/2.1df13d47.chunk.js",
+    "static/js/2.1df13d47.chunk.js.map": "/esperantoTTS/static/js/2.1df13d47.chunk.js.map",
+    "static/js/3.b2520059.chunk.js": "/esperantoTTS/static/js/3.b2520059.chunk.js",
+    "static/js/3.b2520059.chunk.js.map": "/esperantoTTS/static/js/3.b2520059.chunk.js.map",
+    "index.html": "/esperantoTTS/index.html",
+    "static/css/main.5621d98a.chunk.css.map": "/esperantoTTS/static/css/main.5621d98a.chunk.css.map",
+    "static/js/2.1df13d47.chunk.js.LICENSE.txt": "/esperantoTTS/static/js/2.1df13d47.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/esperantoTTS/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9397dadd.js",
+    "static/js/2.1df13d47.chunk.js",
+    "static/css/main.5621d98a.chunk.css",
+    "static/js/main.dd94951c.chunk.js"
+  ]
+}

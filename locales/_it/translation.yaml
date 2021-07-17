@@ -1,0 +1,54 @@
+---
+title: Esperanto TTS
+example_audio:
+    title: Example audio
+    transcript: \"Ne kredu al parolo sen propra kontrolo.\"
+explain_text:
+    title: More info
+    part1: >
+            This is an early version of a neural <a href=https://en.wikipedia.org/wiki/Speech_synthesis>
+            speech synthesis system </a>for<a href=https://en.wikipedia.org/wiki/Esperanto>Esperanto</a>.
+            This site for now mostly exists to show my current state of progress.
+            This is still an early test, the voice quality will likely improve in the future.
+            I also hope to add more voices and also female voices (this might become possible
+            with the next Common Voice dataset release; currently I don't have enough female
+            speech recordings; if you identify as female or non binary and want to donate
+            your voice for this project please email me speech_generation[at]protonmail.com).
+    part2: >
+            All text entered in the website is currently stored for
+            further improvement, therefore please don't enter any
+            sensitive information into this website.
+    part3: >
+            Please be considerate in the amount of audio you generate. I
+            recommend not generating more than ~50 sentences per day.
+            (If you still need to do that please send me an email first)
+    part4: >
+            If you can afford to support this project financially or
+            have close ties to an organization who could sponsor this
+            project to ensure it's long term existance please send me an
+            email to speech_generation[at]protonmail.com
+    part5: >
+            I'm also working on a speech to text system for Esperanto, a
+            demo of which you can see <a href="https://www.youtube.com/watch?v=IEeahcdNZ2M">
+            here</a>
+    part6: >
+            To get info on progress on this system you can follow me on
+            <a href="https://twitter.com/54696d21">Twitter</a> or leave
+            me your email address
+            <a href="https://docs.google.com/forms/d/1BtlP8ne0bTiOW-ueYMh6Ne3-WVDTdFGUYE1mijJ9XcA">here</a>
+    part7: >
+            You can contact me by sending an email at
+            speech_generation[at]protonmail.com
+    part8: >
+            Thanks to the <a href="https://commonvoice.mozilla.org/en">
+            Mozilla Common Voice Project </a>,
+            it's contributors and the speaker of the original
+            recordings for providing the audio. Also thanks to
+            <a href="https://twitter.com/stergro">Stefan </a> for
+            getting me interested in building Esperanto speech systems
+            as well as supporting me in endless chat discussions and
+            <a href="https://twitter.com/sav22999">Sav</a> for making
+            the Common Voice Android app as well as everyone else who
+            helped building the app and to everyone who responded
+            offered to donate their voice so far after my initial reddit
+            post about Esperanto speech synthesis back in March.
